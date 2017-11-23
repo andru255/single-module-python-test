@@ -8,9 +8,9 @@
 
 The folder **tests** needs 2 main files `__init__.py` and `__main__.py` 
 
-the file __init__.py means define a package folder
+the file `__init__.py` means define a package folder
 
-the file __main__.py means to prompt or run the current module with `python -m`
+the file `__main__.py` means to prompt or run the current module with `python -m`
 
 Useful links:
 
